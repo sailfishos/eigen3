@@ -4,7 +4,7 @@ Name:           libeigen3-devel
 License:        MPLv2 and LGPLv2+ and BSD
 Group:          Development/Libraries
 Summary:        Lightweight linear algebra C++ template library
-Url:            http://eigen.tuxfamily.org/
+Url:            https://github.com/sailfishos/eigen3
 Version:        3.3.5
 Release:        1
 Source:         %{name}-%{version}.tar.bz2
